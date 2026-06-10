@@ -8,3 +8,7 @@ Users loves shopping online, but after placing an order she often feels uncertai
 After Velora
 
 With Velora, Users can browse products freely, place an order securely, track its status in real time, and contact the seller directly through in-app chat. Instead of wondering what happens next, she stays informed and confident throughout the entire journey.
+
+App Screens Design
+
+![Velora UI/UX Design](Velora%20Shopping%20Project%20APP%20UI%20UX%20Design.png)

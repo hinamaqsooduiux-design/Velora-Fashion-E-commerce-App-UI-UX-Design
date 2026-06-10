@@ -11,4 +11,4 @@ With Velora, Users can browse products freely, place an order securely, track it
 
 App Screens Design
 
-![Velora UI/UX Design](Velora%20Shopping%20Project%20APP%20UI%20UX%20Design.png)
+![Velora UI/UX Design](Velora%20Shopping%20Project/APP%20UI%20UX%20Design.png)
